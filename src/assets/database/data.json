@@ -1,0 +1,378 @@
+{
+  "maincategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Kids",
+      "id": 1
+    },
+    {
+      "name": "Women",
+      "id": 2
+    },
+    {
+      "name": "Men",
+      "id": 3
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Shirt",
+      "id": 1
+    },
+    {
+      "name": "T-shirt",
+      "id": 2
+    },
+    {
+      "name": "Jeans",
+      "id": 3
+    },
+    {
+      "name": "Kurti",
+      "id": 4
+    }
+  ],
+  "brand": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Adidas",
+      "id": 1
+    },
+    {
+      "name": "Nike",
+      "id": 2
+    },
+    {
+      "name": "Zara",
+      "id": 3
+    },
+    {
+      "name": "Louis Philipe",
+      "id": 4
+    },
+    {
+      "name": "Mufti",
+      "id": 5
+    },
+    {
+      "name": "Prada",
+      "id": 6
+    },
+    {
+      "name": "Burberry",
+      "id": 7
+    }
+  ],
+  "product": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Male Shirts",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Mufti",
+      "color": "White",
+      "size": "34",
+      "baseprice": 3000,
+      "discount": 6,
+      "finalprice": 2820,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic1.jpg",
+      "pic2": "pic3.jpg",
+      "pic3": "pic2.jpg",
+      "pic4": "pic8.jpg",
+      "id": 1
+    },
+    {
+      "name": "Male Tshirt",
+      "maincategory": "Men",
+      "subcategory": "T-shirt",
+      "brand": "Louis Philipe",
+      "color": "White",
+      "size": "32",
+      "baseprice": 1100,
+      "discount": 11,
+      "finalprice": 979,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic14.jpg",
+      "pic2": "pic23.jpg",
+      "pic3": "",
+      "pic4": "",
+      "id": 2
+    },
+    {
+      "name": "Women party wear",
+      "maincategory": "Women",
+      "subcategory": "Kurti",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "L",
+      "baseprice": 2100,
+      "discount": 13,
+      "finalprice": 1827,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic4.jpg",
+      "pic2": "pic9.jpg",
+      "pic3": "pic10.jpg",
+      "pic4": "",
+      "id": 3
+    },
+    {
+      "name": "Kids Jeans Mufti",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "S",
+      "baseprice": 1300,
+      "discount": 10,
+      "finalprice": 1170,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic5.jpg",
+      "pic2": "",
+      "pic3": "",
+      "pic4": "",
+      "id": 4
+    },
+    {
+      "name": "Kids Shirt ",
+      "maincategory": "Kids",
+      "subcategory": "Shirt",
+      "brand": "Adidas",
+      "color": "Yellow",
+      "size": "30",
+      "baseprice": 1400,
+      "discount": 11,
+      "finalprice": 1246,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic17.jpg",
+      "pic2": "pic6.jpg",
+      "pic3": "pic5.jpg",
+      "pic4": "pic14.jpg",
+      "id": 5
+    },
+    {
+      "name": "Mens T-shirts",
+      "maincategory": "Men",
+      "subcategory": "T-shirt",
+      "brand": "Nike",
+      "color": "Grey",
+      "size": "28",
+      "baseprice": 3222,
+      "discount": 14,
+      "finalprice": 2771,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic13.jpg",
+      "pic2": "pic14.jpg",
+      "pic3": "pic16.jpg",
+      "pic4": "pic6.jpg",
+      "id": 6
+    },
+    {
+      "name": "Men Slim Shirt",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Prada",
+      "color": "Green",
+      "size": "28",
+      "baseprice": 1222,
+      "discount": 12,
+      "finalprice": 1075,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic39.jpg",
+      "pic2": "pic19.jpg",
+      "pic3": "pic30.jpg",
+      "pic4": "",
+      "id": 7
+    },
+    {
+      "name": "Women jeans",
+      "maincategory": "Women",
+      "subcategory": "Jeans",
+      "brand": "Nike",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": 2500,
+      "discount": 20,
+      "finalprice": 2000,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic28.jpg",
+      "pic2": "pic34.jpg",
+      "pic3": "pic12.jpg",
+      "pic4": "pic27.jpg",
+      "id": 8
+    },
+    {
+      "name": "Mens T-shirts",
+      "maincategory": "Men",
+      "subcategory": "T-shirt",
+      "brand": "Burberry",
+      "color": "Purple",
+      "size": "36",
+      "baseprice": 2222,
+      "discount": 21,
+      "finalprice": 1755,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic30.jpg",
+      "pic2": "pic19.jpg",
+      "pic3": "pic24.jpg",
+      "pic4": "",
+      "id": 9
+    },
+    {
+      "name": "kids",
+      "maincategory": "Kids",
+      "subcategory": "T-shirt",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "28",
+      "baseprice": 1100,
+      "discount": 9,
+      "finalprice": 1001,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic25.jpg",
+      "pic2": "pic37.jpg",
+      "pic3": "pic20.jpg",
+      "pic4": "",
+      "id": 10
+    },
+    {
+      "name": "women kurti",
+      "maincategory": "Women",
+      "subcategory": "Kurti",
+      "brand": "Mufti",
+      "color": "Pink",
+      "size": "34",
+      "baseprice": 800,
+      "discount": 10,
+      "finalprice": 720,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic21.jpg",
+      "pic2": "pic9.jpg",
+      "pic3": "pic11.jpg",
+      "pic4": "pic18.jpg",
+      "id": 11
+    },
+    {
+      "name": "women T-shirt",
+      "maincategory": "Women",
+      "subcategory": "T-shirt",
+      "brand": "Mufti",
+      "color": "Yellow",
+      "size": "32",
+      "baseprice": 500,
+      "discount": 11,
+      "finalprice": 445,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic29.jpg",
+      "pic2": "pic31.jpg",
+      "pic3": "pic14.jpg",
+      "pic4": "pic35.jpg",
+      "id": 12
+    },
+    {
+      "name": "Women jeans",
+      "maincategory": "Women",
+      "subcategory": "Jeans",
+      "brand": "Burberry",
+      "color": "Grey",
+      "size": "32",
+      "baseprice": 1456,
+      "discount": 34,
+      "finalprice": 961,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic7.jpg",
+      "pic2": "pic12.jpg",
+      "pic3": "pic27.jpg",
+      "pic4": "pic32.jpg",
+      "id": 13
+    },
+    {
+      "name": "Male Shirts",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Mufti",
+      "color": "White",
+      "size": "L",
+      "baseprice": 8900,
+      "discount": 78,
+      "finalprice": 1958,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic2.jpg",
+      "pic2": "pic3.jpg",
+      "pic3": "pic36.jpg",
+      "pic4": "",
+      "id": 14
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "name": "yash kumar",
+      "username": "yash",
+      "email": "kumars15651@gmail.com",
+      "phone": "9045092068",
+      "password": "yash@123",
+      "role": "Admin",
+      "id": 23
+    },
+    {
+      "name": "harsh kumar",
+      "username": "harsh",
+      "email": "kumars15651@gmail.com",
+      "phone": "9045092068",
+      "password": "harsh",
+      "role": "Buyer",
+      "id": 24
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    }
+  ],
+  "contactus": [
+    {
+      "id": 0
+    }
+  ]
+}
